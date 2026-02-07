@@ -1,0 +1,9 @@
+# Audio data files (large binary files)
+PEPELOMO-V.1_data/
+
+# Downloaded media
+videoplayback*
+
+# OS files
+.DS_Store
+Thumbs.db
