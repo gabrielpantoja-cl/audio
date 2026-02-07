@@ -1,5 +1,14 @@
-# Audio data files (large binary files)
-PEPELOMO-V.1_data/
+# Audio files (too large for GitHub, 100MB limit)
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.aac
+*.wma
+*.m4a
+
+# Audacity project data directories (large binary chunks)
+*_data/
 
 # Downloaded media
 videoplayback*
